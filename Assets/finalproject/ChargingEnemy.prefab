@@ -150,7 +150,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collisionMask:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 0
   horizontalRayCount: 4
   verticalRayCount: 4
   horizontalRaySpacing: 0
