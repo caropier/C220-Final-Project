@@ -15,6 +15,11 @@ We struggled with the colliders, making sure that the player would not fall thou
 
 ## Implementation
 All art assests used were created by Alyssa and Rylie.
+All sound assets used were created or imported by Carolina.
+
+Music: Children of the Forest by Alexander Nakarada (www.creatorchords.com)
+Licensed under Creative Commons BY Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz https://github.com/SebLague/2DPlatformer-Tutorial
 
@@ -27,5 +32,5 @@ Hope to expand the levels in the future.
 
 # Created by: ARC
 Alyssa Luckritz (level design, character animations, raccoons)
-Carolina Pierce
+Carolina Pierce (design, sound and audio, starting screen)
 Rylie Bowman
